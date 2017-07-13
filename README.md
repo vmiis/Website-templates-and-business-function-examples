@@ -1,7 +1,7 @@
 # Application List
 
 https://vmiis.github.io/bookkeeping/index.html  
-https://vmiis.github.io/bookkeeping/index.html?server=development  
+https://vmiis.github.io/bookkeeping/index.html?server=production  
 https://vmiis.github.io/car-booking/index.html  
 https://vmiis.github.io/equipment-booking/index.html  
 https://vmiis.github.io/room-booking/index.html  
