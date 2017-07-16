@@ -16,3 +16,6 @@ https://woolcock-imr.github.io/powersleep-registration/index.html
 https://woolcock-imr.github.io/powersleep-registration/index.html?database=development  
 https://woolcock-imr.github.io/powersleep-registration-management/index.html  
 https://woolcock-imr.github.io/powersleep-registration-management/index.html?database=production  
+https://woolcock-imr.github.io/windfarm-recruitment-management/index.html  
+https://woolcock-imr.github.io/windfarm-recruitment-management/index.html?database=production  
+
