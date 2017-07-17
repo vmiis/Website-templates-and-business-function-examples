@@ -27,3 +27,4 @@
 <a href='https://woolcock-imr.github.io/windfarm-recruitment-management/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>windfarm-recruitment-management</b>/index.html?database=development</a>  
 <a href='https://woolcock-imr.github.io/windfarm-screening-questionnaire/index.html'>https&#58;//woolcock-imr.github.io/<b>windfarm-screening-questionnaire</b>/index.html</a>  
 <a href='https://woolcock-imr.github.io/windfarm-screening-questionnaire/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>windfarm-screening-questionnaire</b>/index.html?database=development</a>  
+![alt tag](https://vmiis.github.io/images/structure.png)
