@@ -3,7 +3,8 @@
 <a href='https://vmiis.github.io/bookkeeping/index.html'>https&#58;//vmiis.github.io/<b>bookkeeping</b>/index.html</a>  
 <a href='https://vmiis.github.io/bookkeeping/index.html?database=production'>https&#58;//vmiis.github.io/<b>bookkeeping</b>/index.html?database=production</a>  
 <a href='https://vmiis.github.io/car-booking/index.html'>https&#58;//vmiis.github.io/<b>car-booking</b>/index.html</a>  
-<a href='https://vmiis.github.io/equipment-booking/index.html'>https&#58;//vmiis.github.io/<b>equipment-booking</b>/index.html</a>  
+<a href='https://vmiis.github.io/car-booking/index.html'>https&#58;//vmiis.github.io/<b>car-booking</b>/index.html</a>  
+<a href='https://vmiis.github.io/document-collaboration/index.html'>https&#58;//vmiis.github.io/<b>document-collaboration</b>/index.html</a>  
 <a href='https://vmiis.github.io/room-booking/index.html'>https&#58;//vmiis.github.io/<b>room-booking</b>/index.html</a>  
 <a href='https://vmiis.github.io/woolworths-credit-card/index.html'>https&#58;//vmiis.github.io/<b>woolworths-credit-card</b>/index.html</a>  
 <a href='https://vmiis.github.io/woolworths-credit-card/index.html?database=production'>https&#58;//vmiis.github.io/<b>woolworths-credit-card</b>/index.html?database=production</a>  
