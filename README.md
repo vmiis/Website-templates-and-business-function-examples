@@ -17,6 +17,8 @@
 <a href='https://woolcock-imr.github.io/hdeeg-mci/index.html?database=production'>https&#58;//woolcock-imr.github.io/<b>hdeeg-mci</b>/index.html?database=development</a>  
 <a href='https://woolcock-imr.github.io/online-questionnaire/index.html'>https&#58;//woolcock-imr.github.io/<b>online-questionnaire</b>/index.html</a>  
 <a href='https://woolcock-imr.github.io/online-questionnaire/index.html?database=production'>https&#58;//woolcock-imr.github.io/<b>online-questionnaire</b>/index.html?database=development</a>  
+<a href='https://woolcock-imr.github.io/operations/index.html'>https&#58;//woolcock-imr.github.io/<b>operations</b>/index.html</a>  
+<a href='https://woolcock-imr.github.io/operations/index.html?database=production'>https&#58;//woolcock-imr.github.io/<b>operations</b>/index.html?database=development</a>  
 <a href='https://woolcock-imr.github.io/powersleep-registration/index.html'>https&#58;//woolcock-imr.github.io/<b>powersleep-registration</b>/index.html</a>  
 <a href='https://woolcock-imr.github.io/powersleep-registration/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>powersleep-registration</b>/index.html?database=development</a>  
 <a href='https://woolcock-imr.github.io/powersleep-registration-management/index.html'>https&#58;//woolcock-imr.github.io/<b>powersleep-registration-management</b>/index.html</a>  
