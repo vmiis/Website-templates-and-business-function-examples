@@ -2,6 +2,7 @@
 
 <a href='https://vmiis.github.io/bookkeeping/index.html'>https&#58;//vmiis.github.io/<b>bookkeeping</b>/index.html</a>  
 <a href='https://vmiis.github.io/car-booking/index.html'>https&#58;//vmiis.github.io/<b>car-booking</b>/index.html</a>  
+<a href='https://vmiis.github.io/client-management/index.html'>https&#58;//vmiis.github.io/<b>client-management</b>/index.html</a>  
 <a href='https://vmiis.github.io/document-collaboration/index.html'>https&#58;//vmiis.github.io/<b>document-collaboration</b>/index.html</a>  
 <a href='https://vmiis.github.io/documents/index.html'>https&#58;//vmiis.github.io/<b>documents</b>/index.html</a>  
 <a href='https://vmiis.github.io/equipment-booking/index.html'>https&#58;//vmiis.github.io/<b>equipment-booking</b>/index.html</a>  
