@@ -1,4 +1,4 @@
-# Application List
+# Host and run applications on GitHub
 
 <a href='https://vmiis.github.io/bookkeeping/index.html'>https&#58;//vmiis.github.io/<b>bookkeeping</b>/index.html</a>  
 <a href='https://vmiis.github.io/car-booking/index.html'>https&#58;//vmiis.github.io/<b>car-booking</b>/index.html</a>  
