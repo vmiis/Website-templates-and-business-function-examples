@@ -1,7 +1,8 @@
 # Host and run applications on GitHub
 
-https://vmiis.github.io/template-002/index.html (w3 css)  
-https://vmiis.github.io/template-001/index.html (w3 css)  
+https://vmiis.github.io/template-003/index.html (Bootstrap CSS theme and business portal function examples )  
+https://vmiis.github.io/template-002/index.html (W3 CSS theme and business portal function examples )  
+https://vmiis.github.io/template-001/index.html (W3 CSS theme and business portal function examples )  
 <a href='https://vmiis.github.io/bookkeeping/index.html'>https&#58;//vmiis.github.io/<b>bookkeeping</b>/index.html</a>  
 <a href='https://vmiis.github.io/car-booking/index.html'>https&#58;//vmiis.github.io/<b>car-booking</b>/index.html</a>  
 <a href='https://vmiis.github.io/client-management/index.html'>https&#58;//vmiis.github.io/<b>client-management</b>/index.html</a>  
