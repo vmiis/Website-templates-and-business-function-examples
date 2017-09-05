@@ -6,13 +6,11 @@ https://vmiis.github.io/template-003/index.html (Bootstrap CSS theme and busines
 https://vmiis.github.io/template-002/index.html (W3 CSS theme, room booking example)  
 https://vmiis.github.io/template-001/index.html (W3 CSS theme, car booking example)  
 <a href='https://vmiis.github.io/bookkeeping/index.html'>https&#58;//vmiis.github.io/<b>bookkeeping</b>/index.html</a>  
-<a href='https://vmiis.github.io/car-booking/index.html'>https&#58;//vmiis.github.io/<b>car-booking</b>/index.html</a>  
 <a href='https://vmiis.github.io/client-management/index.html'>https&#58;//vmiis.github.io/<b>client-management</b>/index.html</a>  
 <a href='https://vmiis.github.io/document-collaboration/index.html'>https&#58;//vmiis.github.io/<b>document-collaboration</b>/index.html</a>  
 <a href='https://vmiis.github.io/documents/index.html'>https&#58;//vmiis.github.io/<b>documents</b>/index.html</a>  
 <a href='https://vmiis.github.io/equipment-booking/index.html'>https&#58;//vmiis.github.io/<b>equipment-booking</b>/index.html</a>  
 <a href='https://vmiis.github.io/photos/index.html'>https&#58;//vmiis.github.io/<b>photos</b>/index.html</a>  
-<a href='https://vmiis.github.io/room-booking/index.html'>https&#58;//vmiis.github.io/<b>room-booking</b>/index.html</a>  
 <a href='https://vmiis.github.io/staff/index.html'>https&#58;//vmiis.github.io/<b>staff</b>/index.html</a>  
 <a href='https://vmiis.github.io/staff-management/index.html'>https&#58;//vmiis.github.io/<b>staff-management</b>/index.html</a>  
 <a href='https://vmiis.github.io/woolworths-credit-card/index.html'>https&#58;//vmiis.github.io/<b>woolworths-credit-card</b>/index.html</a>  
