@@ -1,4 +1,4 @@
-# Host and run applications on GitHub
+# Application templates
 
 <a href=https://vmiis.github.io/business-portal/index.html>Business portal, all applications in one place</a> / <a href=https://github.com/vmiis/business-portal>source code</a>    
 <a href=https://vmiis.github.io/template-005/index.html>Bootstrap CSS theme and document example</a> / <a href=https://github.com/vmiis/template-005>source code</a>    
