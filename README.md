@@ -6,35 +6,22 @@
 <a href=https://vmiis.github.io/template-003/index.html>Bootstrap CSS theme and <b>equipment booking</b> example</a> / <a href=https://github.com/vmiis/template-003>source code</a>    
 <a href=https://vmiis.github.io/template-002/index.html>W3 CSS theme and <b>room booking</b> example</a> / <a href=https://github.com/vmiis/template-002>source code</a>    
 <a href=https://vmiis.github.io/template-001/index.html>W3 CSS theme and <b>car booking</b> example</a> / <a href=https://github.com/vmiis/template-001>source code</a>  
-<a href='https://vmiis.github.io/bookkeeping/index.html'>https&#58;//vmiis.github.io/<b>bookkeeping</b>/index.html</a>  
-<a href='https://vmiis.github.io/client-management/index.html'>https&#58;//vmiis.github.io/<b>client-management</b>/index.html</a>  
-<a href='https://vmiis.github.io/document-collaboration/index.html'>https&#58;//vmiis.github.io/<b>document-collaboration</b>/index.html</a>  
-<a href='https://vmiis.github.io/staff/index.html'>https&#58;//vmiis.github.io/<b>staff</b>/index.html</a>  
-<a href='https://vmiis.github.io/staff-management/index.html'>https&#58;//vmiis.github.io/<b>staff-management</b>/index.html</a>  
-<a href='https://vmiis.github.io/woolworths-credit-card/index.html'>https&#58;//vmiis.github.io/<b>woolworths-credit-card</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/abc-tv/index.html'>https&#58;//woolcock-imr.github.io/<b>abc-tv</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/catchup09/index.html?database=demonstration'>https&#58;//woolcock-imr.github.io/<b>catchup09</b>/index.html?database=demonstration</a>  
-<a href='https://woolcock-imr.github.io/cfs-nrs/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>cfs-nrs</b>/index.html?database=development</a>  
-<a href='https://woolcock-imr.github.io/hdeeg-mci/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>hdeeg-mci</b>/index.html?database=development</a>  
-<a href='https://woolcock-imr.github.io/nightstudy-recruitment-questionnaire-management/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>nightstudy-recruitment-questionnaire-management</b>/index.html?database=development</a>  
-<a href='https://woolcock-imr.github.io/online-questionnaire/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>online-questionnaire</b>/index.html?database=development</a>  
-<a href='https://woolcock-imr.github.io/operations/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>operations</b>/index.html?database=development</a>  
-<a href='https://woolcock-imr.github.io/powersleep-registration/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>powersleep-registration</b>/index.html?database=development</a>  
-<a href='https://woolcock-imr.github.io/powersleep-registration-management/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>powersleep-registration-management</b>/index.html?database=development</a>  
-<a href='https://woolcock-imr.github.io/windfarm-inlab/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>windfarm-inlab</b>/index.html?database=development</a>  
-<a href='https://woolcock-imr.github.io/windfarm-recruitment-management/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>windfarm-recruitment-management</b>/index.html?database=development</a>  
-<a href='https://woolcock-imr.github.io/windfarm-screening-questionnaire/index.html?database=development'>https&#58;//woolcock-imr.github.io/<b>windfarm-screening-questionnaire</b>/index.html?database=development</a>  
+<a href='https://vmiis.github.io/bookkeeping/index.html'><b>bookkeeping</b> example</a> / <a href=https://github.com/vmiis/bookkeeping>source code</a>  
+<a href='https://vmiis.github.io/client-management/index.html'><b>client-management</b> example</a> / <a href=https://github.com/vmiis/client-management>source code</a>  
+<a href='https://vmiis.github.io/document-collaboration/index.html'><b>document-collaboration</b> example</a> / <a href=https://github.com/vmiis/document-collaboration>source code</a>  
+<a href='https://vmiis.github.io/staff/index.html'><b>staff</b> example</a> / <a href=https://github.com/vmiis/staff>source code</a>  
+<a href='https://vmiis.github.io/staff-management/index.html'><b>staff-management</b> example</a> / <a href=https://github.com/vmiis/staff-management>source code</a>  
+<a href='https://vmiis.github.io/woolworths-credit-card/index.html'><b>woolworths-credit-card</b> example</a> / <a href=https://github.com/vmiis/woolworths-credit-card>source code</a>  
+<a href='https://woolcock-imr.github.io/abc-tv/index.html'><b>abc-tv</b> clinical trials example</a> / <a href=https://github.com/woolcock-imr/abc-tv>source code</a>  
+<a href='https://woolcock-imr.github.io/catchup09/index.html?database=demonstration'><b>catchup09</b> clinical trials example</a> / <a href=https://github.com/woolcock-imr/abc-tv>source code</a>  
+<a href='https://woolcock-imr.github.io/cfs-nrs/index.html?database=development'><b>cfs-nrs</b> clinical trials example</a> / <a href=https://github.com/woolcock-imr/cfs-nrs>source code</a>  
+<a href='https://woolcock-imr.github.io/hdeeg-mci/index.html?database=development'><b>hdeeg-mci</b> clinical trials example</a> / <a href=https://github.com/woolcock-imr/hdeeg-mci>source code</a>  
+<a href='https://woolcock-imr.github.io/nightstudy-recruitment-questionnaire-management/index.html?database=development'><b>nightstudy-recruitment-questionnaire-management</b> clinical trials example</a> / <a href=https://github.com/woolcock-imr/nightstudy-recruitment-questionnaire-management>source code</a> 
+<a href='https://woolcock-imr.github.io/online-questionnaire/index.html?database=development'><b>online-questionnaire</b> clinical trials example</a> / <a href=https://github.com/woolcock-imr/online-questionnaire>source code</a> 
+<a href='https://woolcock-imr.github.io/operations/index.html?database=development'><b>operations</b> example</a> / <a href=https://github.com/woolcock-imr/operations>source code</a>  
+<a href='https://woolcock-imr.github.io/powersleep-registration/index.html?database=development'><b>powersleep-registration</b> clinical trials example</a> / <a href=https://github.com/woolcock-imr/powersleep-registration>source code</a> 
+<a href='https://woolcock-imr.github.io/powersleep-registration-management/index.html?database=development'><b>powersleep-registration-management</b> clinical trials example</a> / <a href=https://github.com/woolcock-imr/powersleep-registration-management>source code</a> 
+<a href='https://woolcock-imr.github.io/windfarm-inlab/index.html?database=development'><b>windfarm-inlab</b> clinical trials example</a> / <a href=https://github.com/woolcock-imr/windfarm-inlab>source code</a> 
+<a href='https://woolcock-imr.github.io/windfarm-recruitment-management/index.html?database=development'><b>windfarm-recruitment-management</b> clinical trials example</a> / <a href=https://github.com/woolcock-imr/windfarm-recruitment-management>source code</a> 
+<a href='https://woolcock-imr.github.io/windfarm-screening-questionnaire/index.html?database=development'><b>windfarm-screening-questionnaire</b> clinical trials example</a> / <a href=https://github.com/woolcock-imr/windfarm-screening-questionnaire>source code</a> 
 ![alt tag](https://vmiis.github.io/images/structure.png)
-<a href='https://vmiis.github.io/bookkeeping/index.html?database=production'>https&#58;//vmiis.github.io/<b>bookkeeping</b>/index.html?database=production</a>  
-<a href='https://vmiis.github.io/woolworths-credit-card/index.html?database=production'>https&#58;//vmiis.github.io/<b>woolworths-credit-card</b>/index.html?database=production</a>  
-<a href='https://woolcock-imr.github.io/catchup09/index.html'>https&#58;//woolcock-imr.github.io/<b>catchup09</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/cfs-nrs/index.html'>https&#58;//woolcock-imr.github.io/<b>cfs-nrs</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/hdeeg-mci/index.html'>https&#58;//woolcock-imr.github.io/<b>hdeeg-mci</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/nightstudy-recruitment-questionnaire-management/index.html'>https&#58;//woolcock-imr.github.io/<b>nightstudy-recruitment-questionnaire-management</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/online-questionnaire/index.html'>https&#58;//woolcock-imr.github.io/<b>online-questionnaire</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/operations/index.html'>https&#58;//woolcock-imr.github.io/<b>operations</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/powersleep-registration/index.html'>https&#58;//woolcock-imr.github.io/<b>powersleep-registration</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/powersleep-registration-management/index.html'>https&#58;//woolcock-imr.github.io/<b>powersleep-registration-management</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/windfarm-inlab/index.html'>https&#58;//woolcock-imr.github.io/<b>windfarm-inlab</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/windfarm-recruitment-management/index.html'>https&#58;//woolcock-imr.github.io/<b>windfarm-recruitment-management</b>/index.html</a>  
-<a href='https://woolcock-imr.github.io/windfarm-screening-questionnaire/index.html'>https&#58;//woolcock-imr.github.io/<b>windfarm-screening-questionnaire</b>/index.html</a>  
