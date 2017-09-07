@@ -5,7 +5,7 @@ https://vmiis.github.io/template-005/index.html (Bootstrap CSS theme and documen
 https://vmiis.github.io/template-004/index.html (Bootstrap CSS theme and photo example)  
 https://vmiis.github.io/template-003/index.html (Bootstrap CSS theme and equipment booking example)  
 https://vmiis.github.io/template-002/index.html (W3 CSS theme and room booking example)  
-https://vmiis.github.io/template-001/index.html (W3 CSS theme and car booking example)  
+<a href=https://vmiis.github.io/template-001/index.html>W3 CSS theme and car booking example</a> <a href=https://github.com/vmiis/template-001>source code</a>  
 <a href='https://vmiis.github.io/bookkeeping/index.html'>https&#58;//vmiis.github.io/<b>bookkeeping</b>/index.html</a>  
 <a href='https://vmiis.github.io/client-management/index.html'>https&#58;//vmiis.github.io/<b>client-management</b>/index.html</a>  
 <a href='https://vmiis.github.io/document-collaboration/index.html'>https&#58;//vmiis.github.io/<b>document-collaboration</b>/index.html</a>  
