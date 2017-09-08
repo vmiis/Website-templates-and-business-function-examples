@@ -1,12 +1,12 @@
 # Website templates and business function examples
 
 <a href=https://vmiis.github.io/business-portal/index.html><b>Business portal</b>, all applications in one place</a> / <a href=https://github.com/vmiis/business-portal>source code</a>    
-<a href=https://vmiis.github.io/template-005/index.html>Bootstrap CSS theme and <b>document</b> example</a> / <a href=https://github.com/vmiis/template-005>source code</a>    
-<a href=https://vmiis.github.io/template-004/index.html>Bootstrap CSS theme and <b>photo</b> example</a> / <a href=https://github.com/vmiis/template-004>source code</a>    
-<a href=https://vmiis.github.io/template-003/index.html>Bootstrap CSS theme and <b>equipment booking</b> example</a> / <a href=https://github.com/vmiis/template-003>source code</a>    
-<a href=https://vmiis.github.io/template-002/index.html>W3 CSS theme and <b>room booking</b> example</a> / <a href=https://github.com/vmiis/template-002>source code</a>    
-<a href=https://vmiis.github.io/template-001/index.html>W3 CSS theme and <b>car booking</b> example</a> / <a href=https://github.com/vmiis/template-001>source code</a>  
-<a href='https://vmiis.github.io/bookkeeping/index.html'><b>bookkeeping</b> example</a> / <a href=https://github.com/vmiis/bookkeeping>source code</a>  
+<a href=https://vmiis.github.io/template-006/index.html>Bootstrap CSS theme 006 and <b>bookkeeping</b> example</a> / <a href=https://github.com/vmiis/template-005>source code</a>    
+<a href=https://vmiis.github.io/template-005/index.html>Bootstrap CSS theme 005 and <b>document</b> example</a> / <a href=https://github.com/vmiis/template-005>source code</a>    
+<a href=https://vmiis.github.io/template-004/index.html>Bootstrap CSS theme 004 and <b>photo</b> example</a> / <a href=https://github.com/vmiis/template-004>source code</a>    
+<a href=https://vmiis.github.io/template-003/index.html>Bootstrap CSS theme 003 and <b>equipment booking</b> example</a> / <a href=https://github.com/vmiis/template-003>source code</a>    
+<a href=https://vmiis.github.io/template-002/index.html>W3 CSS theme 002 and <b>room booking</b> example</a> / <a href=https://github.com/vmiis/template-002>source code</a>    
+<a href=https://vmiis.github.io/template-001/index.html>W3 CSS theme 001 and <b>car booking</b> example</a> / <a href=https://github.com/vmiis/template-001>source code</a>  
 <a href='https://vmiis.github.io/client-management/index.html'><b>client-management</b> example</a> / <a href=https://github.com/vmiis/client-management>source code</a>  
 <a href='https://vmiis.github.io/document-collaboration/index.html'><b>document-collaboration</b> example</a> / <a href=https://github.com/vmiis/document-collaboration>source code</a>  
 <a href='https://vmiis.github.io/staff/index.html'><b>staff</b> example</a> / <a href=https://github.com/vmiis/staff>source code</a>  
