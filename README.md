@@ -1,7 +1,7 @@
 # Website templates and business function examples
 
 <a href=https://vmiis.github.io/business-portal/index.html><b>Business portal</b>, all applications in one place</a> / <a href=https://github.com/vmiis/business-portal>source code</a>    
-<a href=https://vmiis.github.io/template-006/index.html>Bootstrap CSS theme 006 and <b>bookkeeping</b> example</a> / <a href=https://github.com/vmiis/template-005>source code</a>    
+<a href=https://vmiis.github.io/template-006/index.html>Bootstrap CSS theme 006 and <b>bookkeeping</b> example</a> / <a href=https://github.com/vmiis/template-006>source code</a>    
 <a href=https://vmiis.github.io/template-005/index.html>Bootstrap CSS theme 005 and <b>document</b> example</a> / <a href=https://github.com/vmiis/template-005>source code</a>    
 <a href=https://vmiis.github.io/template-004/index.html>Bootstrap CSS theme 004 and <b>photo</b> example</a> / <a href=https://github.com/vmiis/template-004>source code</a>    
 <a href=https://vmiis.github.io/template-003/index.html>Bootstrap CSS theme 003 and <b>equipment booking</b> example</a> / <a href=https://github.com/vmiis/template-003>source code</a>    
